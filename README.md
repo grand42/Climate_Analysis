@@ -134,7 +134,7 @@ After completing your initial analysis, a Flask API was designed based on the qu
 
 * `/api/v1.0/tobs`
   
-* Query the dates and temperature observations of the most active station for the last year of data.
+  * Query the dates and temperature observations of the most active station for the last year of data.
   
   * Return a JSON list of temperature observations (TOBS) for the previous year.
 
